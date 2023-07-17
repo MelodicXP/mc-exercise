@@ -18,3 +18,7 @@ adkdkdk
 
 
 aj;lkj;akljdkj
+
+function superCoolFunction(string) {
+  console.log(stuff happens)
+}
